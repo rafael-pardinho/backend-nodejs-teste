@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend para fins de testes",
   "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
   "author": "Rafael Pardinho",
   "license": "ISC",
   "dependencies": {
