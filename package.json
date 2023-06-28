@@ -4,5 +4,8 @@
   "description": "Backend para fins de testes",
   "main": "index.js",
   "author": "Rafael Pardinho",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
