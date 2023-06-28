@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend para fins de testes",
+  "main": "index.js",
+  "author": "Rafael Pardinho",
+  "license": "ISC"
+}
